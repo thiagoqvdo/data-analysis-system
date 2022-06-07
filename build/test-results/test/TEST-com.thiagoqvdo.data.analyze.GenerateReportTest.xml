@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.thiagoqvdo.data.analyze.GenerateReportTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-06-07T14:49:22" hostname="ilegra-Inspiron-3583" time="0.118">
+  <properties/>
+  <testcase name="shouldGenerateReport()" classname="com.thiagoqvdo.data.analyze.GenerateReportTest" time="0.118"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
